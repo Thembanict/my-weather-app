@@ -23,6 +23,9 @@ li {
   line-height: 1;
   list-style: none;
 }
+footer {
+  text-align: center;
+}
 
 .weather-app {
   border: 1px solid #dadde1;
